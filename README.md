@@ -15,7 +15,6 @@ A full-stack blog application that allows users to create, edit, publish, and ma
 - Search and filter blog posts
 - User profiles and dashboard
 - Like and share functionality
-- Admin panel for content management
 
 ---
 
